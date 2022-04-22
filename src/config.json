@@ -4,9 +4,5 @@
 		"effect" : "slide"
 	},
 	"mimetypes": [
-		"video/mp4",
-		"video/ogg",
-		"video/webm",
-		"video/quicktime"
 	]
 }
